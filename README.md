@@ -10,6 +10,15 @@ Results-oriented Computer Engineering student skilled in frontend development wi
   <img height=200 src="https://git-stats-81mt.vercel.app/api?username=katisd&show_icons=true&show=reviews,prs_merged_percentage&hide_rank=true&theme=calm_pink" />
   <img height=200 src="https://git-stats-81mt.vercel.app/api/top-langs/?username=katisd&layout=compact&exclude_repo=uni,ML-udemy,git-Stats,axons-erp-app&theme=calm_pink"/>
 </div>
+
+# My Projects
+
+## [Meeorder Projects](https://github.com/meeorder/meeorder-frontend) - (Project Manager, UI Designer, Full Stack Developer)
+A POS( Point of Sale System ) web app, offering advanced features, seamless orders, and an intuitive, user-friendly interface.
+
+<b>Utilized</b>: Next.js, Typescript, Antd, Nest.js, Mongodb, Figma
+
+<img src = "https://github.com/katisd/katisd/assets/90249534/c00c1ad2-d895-4ecb-9b55-acf90b8af59f" width = 70% align="center">
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
