@@ -10,7 +10,7 @@ Results-oriented Computer Engineering student skilled in frontend development wi
 # My Projects
 
 
-## [SOS-Alert (Sos-A-Lert)](https://github.com/katisd/hackaty) - (Project Manager, UI Designer, Full Stack Developer)
+## [SOS-Alert (Sos-A-Lert)](https://github.com/katisd/hackaty) - (Project Manager, UI Designer, Frontend Developer)
 
 Prototyped NisitKU's SOS-alert on Kasetsart University's student app, featuring emergency calls, real-time tracking, and problem reporting via Google Maps API, earning 5th place at KU Hackathon 2023.
 
