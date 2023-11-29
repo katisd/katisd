@@ -10,7 +10,7 @@ Results-oriented Computer Engineering student skilled in frontend development wi
 # My Projects
 
 
-## [SOS-Alert (Sos-A-Lert)](https://github.com/katisd/hackaty) - (Project Manager, UI Designer, Frontend Developer)
+## [SOS-Alert (Sos-A-Lert)](https://github.com/katisd/hackaty) - (Frontend Developer, Project Manager, UI Designer)
 
 Prototyped NisitKU's SOS-alert on Kasetsart University's student app, featuring emergency calls, real-time tracking, and problem reporting via Google Maps API, earning 5th place at KU Hackathon 2023.
 
@@ -20,12 +20,21 @@ Prototyped NisitKU's SOS-alert on Kasetsart University's student app, featuring 
 
 
 
-## [Meeorder Projects](https://github.com/meeorder/meeorder-frontend) - (Project Manager, UI Designer, Full Stack Developer)
+## [Meeorder Projects](https://github.com/meeorder/meeorder-frontend) - (Full Stack Developer, Project Manager, UI Designer)
 A POS( Point of Sale System ) web app, offering advanced features, seamless orders, and an intuitive, user-friendly interface.
 
 <b>Utilized</b>: Next.js, Typescript, Antd, Nest.js, Mongodb, Figma
 
 [<img src = "https://github.com/katisd/katisd/assets/90249534/c00c1ad2-d895-4ecb-9b55-acf90b8af59f" width = 70% align="center">](https://meeorder-frontend.vercel.app/)
+
+## [Barcamp Bangkhen #11](https://github.com/barcamp-bangkhen-11/bcbk11-frontend) - (Frontend Developer, Project Manager, UI Designer)
+A dynamic, mobile-friendly Barcamp Bangkhen #1 site, driving 200+ registrations with seamless UX
+
+<b>Utilized</b>: Next.js, Typescript, Figma
+
+[<img src = "https://github.com/katisd/katisd/assets/90249534/37bf7202-81e8-479d-8599-84c961232ab7" alt="Barcamp Bangkhen" width = 70% align="center">](https://www.barcampbangkhen.com/)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
