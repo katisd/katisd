@@ -1,6 +1,4 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Katid (Supawee Borvornsaktavorn)
-<p>
-Results-oriented Computer Engineering student skilled in frontend development with expertise in implementing and optimizing critical features. Proficient in React.js, Antd, and Redux, committed to delivering efficient and clean solutions.</p>
 <div style="display:flex;">
   <img height=200 src="https://git-stats-81mt.vercel.app/api?username=katisd&show_icons=true&show=reviews,prs_merged_percentage&hide_rank=true&theme=calm_pink" />
   <img height=200 src="https://git-stats-81mt.vercel.app/api/top-langs/?username=katisd&layout=compact&exclude_repo=uni,ML-udemy,git-Stats,axons-erp-app&theme=calm_pink"/>
